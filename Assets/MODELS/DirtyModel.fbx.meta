@@ -1,0 +1,220 @@
+fileFormatVersion: 2
+guid: e587930426381d4419449eb15ec07d0a
+ModelImporter:
+  serializedVersion: 21202
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BackColor
+    second: {fileID: 2100000, guid: 4e730dd77b0a1af48ae613d5534555da, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Color_E04
+    second: {fileID: 2100000, guid: bc8046a7221304a4a95ddb51f529f14f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_334_3347863_seamless_texture_abstract
+    second: {fileID: 2100000, guid: a7bfa7482ade98841aa651c165f2effb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_334_3347863_seamless_texture_abstract1
+    second: {fileID: 2100000, guid: aa812d20ce3051447b9c44cf2813befc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_334_3347863_seamless_texture_abstract10
+    second: {fileID: 2100000, guid: e490a489cbf9d2e45a934b5b2bda8c75, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_334_3347863_seamless_texture_abstract11
+    second: {fileID: 2100000, guid: b0fde7e72a31e4e4099b076b4a59ca2f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_334_3347863_seamless_texture_abstract12
+    second: {fileID: 2100000, guid: cde6c5341b3d47142a6ec6044f34064f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_334_3347863_seamless_texture_abstract13
+    second: {fileID: 2100000, guid: e1b91228cb41f434a8f9aef0fa625cd4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_334_3347863_seamless_texture_abstract14
+    second: {fileID: 2100000, guid: 6faa479fd07f4d04488210f95c3c0cf1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_334_3347863_seamless_texture_abstract15
+    second: {fileID: 2100000, guid: 961827a817bc9174ba3ad9a306ddab7a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_334_3347863_seamless_texture_abstract16
+    second: {fileID: 2100000, guid: 354be5dc34873cc4cb97aad48b18fd1b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_334_3347863_seamless_texture_abstract17
+    second: {fileID: 2100000, guid: f741e30f993884843a5d86177157f778, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_334_3347863_seamless_texture_abstract18
+    second: {fileID: 2100000, guid: 4ce0b333fdae05443ae6018e249c95f0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_334_3347863_seamless_texture_abstract2
+    second: {fileID: 2100000, guid: 89966194ec88c014e8060f8de5e1e0d6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_334_3347863_seamless_texture_abstract3
+    second: {fileID: 2100000, guid: c4e7294c8e06e754083fa1c56d71f02f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_334_3347863_seamless_texture_abstract4
+    second: {fileID: 2100000, guid: 638a8c793b4b7ac46b182a89690bff8f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_334_3347863_seamless_texture_abstract5
+    second: {fileID: 2100000, guid: 78a5798d904473648a5ec30017a3694d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_334_3347863_seamless_texture_abstract6
+    second: {fileID: 2100000, guid: 89ce3184fbb93e845be06b25374408f8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_334_3347863_seamless_texture_abstract7
+    second: {fileID: 2100000, guid: 8b7aed1f161ae904e94d474593ecdb68, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_334_3347863_seamless_texture_abstract8
+    second: {fileID: 2100000, guid: 06e1240bc4cbd944da67d5315558947b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_334_3347863_seamless_texture_abstract9
+    second: {fileID: 2100000, guid: 8a68baabef653b04c90fd53cabd16072, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: b8a836efdc17cd32912f3f8a19cd0b8a
+    second: {fileID: 2100000, guid: afe5bdfe046f0fd4885e6858ecb304ef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: seamless_pattern_blue_crossed_shirt_fabric_texture
+    second: {fileID: 2100000, guid: b0c3a203d4915574398d54bd291769ca, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
